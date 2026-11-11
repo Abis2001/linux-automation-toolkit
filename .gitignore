@@ -1,0 +1,13 @@
+# Generated backup files
+backups/*.tar.gz
+
+# Monitoring logs
+log/*.log
+
+# Temporary test files
+cleanup-test/
+
+# Temporary files
+*.tmp
+*.swp
+*~
